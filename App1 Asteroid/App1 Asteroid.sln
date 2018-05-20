@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1 Asteroid", "App1 Asteroid.csproj", "{DBA6C098-A373-A2D4-7FB9-D9D6D21A5769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1 Asteroid.Editor", "App1 Asteroid.Editor.csproj", "{F7FF32E5-871A-8181-A049-2BDAD453FDB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA6C098-A373-A2D4-7FB9-D9D6D21A5769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA6C098-A373-A2D4-7FB9-D9D6D21A5769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA6C098-A373-A2D4-7FB9-D9D6D21A5769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA6C098-A373-A2D4-7FB9-D9D6D21A5769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FF32E5-871A-8181-A049-2BDAD453FDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FF32E5-871A-8181-A049-2BDAD453FDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FF32E5-871A-8181-A049-2BDAD453FDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FF32E5-871A-8181-A049-2BDAD453FDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
